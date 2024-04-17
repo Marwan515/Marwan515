@@ -2,7 +2,7 @@
 <h2>I’m A Self Taught <b>Developer</b></h2>
 - 🌱 I’m currently learning Web-development And Programming in General
 - 💞️ I’m looking to collaborate on anything that i can help with
-- 📫 How to reach me <a href="https://www.instagram.com/marwan.abdulmannan">INSTAGRAM</a>, [Email Me!](mailto:Marwanabdulmannan@googlemail.com), [DISCORD](https://discord.com/channels/@me/1990)
+- 📫 How to reach me <a href="https://www.instagram.com/marwan.abdulmannan">Instagram</a>, <a href="mailto:Marwanabdulmannan@googlemail.com">Email Me!</a>, <a href"https://discord.com/channels/@me/1990">DISCORD</a>
 
 <!---
 Marwan515/Marwan515 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
