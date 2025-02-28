@@ -1,4 +1,4 @@
-# Name: Marwan Abdul-Mannan
+# Marwan Abdul-Mannan
 # Self-Taught IT Professional | Software Development, Networking, and Cybersecurity Enthusiast
 
 I am a highly motivated and resourceful self-learner with a strong foundation in software development, critical thinking, and problem-solving. Despite not attending traditional schooling, I have demonstrated exceptional resilience and determination, continuously seeking knowledge through online resources, courses, and hands-on experience since 2020. 
