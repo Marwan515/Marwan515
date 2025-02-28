@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Marwan515
 # Self-Taught IT Professional | Software Development, Networking, and Cybersecurity Enthusiast
 
 I am a highly motivated and resourceful self-learner with a strong foundation in software development, critical thinking, and problem-solving. Despite not attending traditional schooling, I have demonstrated exceptional resilience and determination, continuously seeking knowledge through online resources, courses, and hands-on experience since 2020. 
@@ -19,7 +18,7 @@ I am eager to apply my skills in real-world environments and contribute to innov
 - **Resourceful and Independent**: Solve problems without structured guidance, relying on critical thinking and community resources.
 - **Communication (Ongoing Development)**: Actively working to enhance communication skills through practice and collaboration.
 
-- 📫 How to reach me <a href="https://www.instagram.com/marwan.abdulmannan">Instagram</a>, If you want to get in touch, feel free to [Email Me](mailto:marwanabdulmannan@gmail.com)., <a href="https://discord.com/channels/@me/1990">DISCORD</a>, <a href="https://wa.link/mjwvil">Whatsapp</a>
+- 📫 How to reach me <a href="https://www.instagram.com/marwan.abdulmannan">Instagram</a>, If you want to get in touch, feel free to [Email Me](mailto:marwanabdulmannan+github@gmail.com)., <a href="https://discord.com/channels/@me/1990">DISCORD</a>, <a href="https://wa.link/mjwvil">Whatsapp</a>
 
 <!---
 Marwan515/Marwan515 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
